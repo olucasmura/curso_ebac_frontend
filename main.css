@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ccc;
+}
+
+body {
+    background-color: #ccc;
+}
+
+div.col {
+    margin-top: 40px;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.container {
+    
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+}
+
+
